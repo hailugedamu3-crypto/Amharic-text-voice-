@@ -1,0 +1,6 @@
+{
+  "name": "ድምፅ ማስተር - Amharic AI Voice Studio",
+  "description": "የላቀ የአማርኛ ጽሑፍ ወደ ድምፅ መቀየሪያ ስቱዲዮ - በወንድና በሴት በርካታ የድምፅ ስልቶች፣ የፍጥነት እና የቃና መቆጣጠሪያ። High-fidelity Amharic Text to Speech Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
